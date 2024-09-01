@@ -1,4 +1,4 @@
-### Hi there 👋
+### Javascript(ES6), Typescript, React, Next.js
 
 <!--
 **Echchi/Echchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
